@@ -6,8 +6,8 @@ We trained the baseline GAN model on **guitar** and **piano** data, and trained 
 This experiments is meant to show that TransPlayer can produce one-to-one transfer results comparable to the baseline, while TransPlayer can apply to more flexible choices of transferring pairs.
 #### From Piano to Guitar
 Piano source:
-<audio src="p2g_src.mp3" preload="none" controls loop> </audio>
+<audio src="p2g_src.wav" preload="none" controls loop> </audio>
 Transferred by baseline:
-<audio src="p2g_bl.mp3" preload="none" controls loop> </audio>
+<audio src="p2g_bl.wav" preload="none" controls loop> </audio>
 Transferred by TransPlayer:
-<audio src="p2g_tp.mp3" preload="none" controls loop> </audio>
+<audio src="p2g_tp.wav" preload="none" controls loop> </audio>
