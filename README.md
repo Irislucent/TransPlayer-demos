@@ -16,18 +16,18 @@ TransPlayer| <audio src="p2g_tp.wav" preload="none" controls > </audio> | <audio
 ### Many-to-many Transfer
 We show some generated results when we change the source and target instrument in a flexible manner. The source music of every intrument is randomly selected from validation set.
 
-Electric Piano -> Organ
-<audio src="epiano_all_01_epiano_organ.wav" preload="none" controls > </audio>
-Electric Piano -> Piano
-<audio src="epiano_all_01_epiano_piano.wav" preload="none" controls > </audio>
-Electric Piano -> Electric Piano (reconstruction)
-<audio src="epiano_all_01_epiano_epiano.wav" preload="none" controls > </audio>
 Flute -> Organ
 <audio src="flute_all_03_flute_organ.wav" preload="none" controls > </audio>
 Flute -> Trumpet
 <audio src="flute_all_03_flute_trumpet.wav" preload="none" controls > </audio>
 Flute -> Flute (reconstruction)
 <audio src="flute_all_03_flute_flute.wav" preload="none" controls > </audio>
+Electric Piano -> Piano
+<audio src="epiano_all_01_epiano_piano.wav" preload="none" controls > </audio>
+Electric Piano -> Organ
+<audio src="epiano_all_01_epiano_organ.wav" preload="none" controls > </audio>
+Electric Piano -> Electric Piano (reconstruction)
+<audio src="epiano_all_01_epiano_epiano.wav" preload="none" controls > </audio>
 Trumpet -> Electric Piano
 <audio src="trumpet_all_05_trumpet_epiano.wav" preload="none" controls > </audio>
 Trumpet -> Flute 
