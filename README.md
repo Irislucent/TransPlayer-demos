@@ -7,13 +7,19 @@ This experiment is meant to show that TransPlayer can produce one-to-one transfe
 
 --- | Piano to Guitar     | Guitar to Piano
 ---- | -------- | -----
-Source| <audio src="p2g_src.wav" preload="none" controls loop> </audio> | <audio src="g2p_src.wav" preload="none" controls loop> </audio>
-Baseline| <audio src="p2g_bl.wav" preload="none" controls loop> </audio> | <audio src="g2p_bl.wav" preload="none" controls loop> </audio>
-TransPlayer| <audio src="p2g_tp.wav" preload="none" controls loop> </audio> | <audio src="g2p_tp.wav" preload="none" controls loop> </audio>
+Source| <audio src="p2g_src.wav" preload="none" controls > </audio> | <audio src="g2p_src.wav" preload="none" controls > </audio>
+Baseline| <audio src="p2g_bl.wav" preload="none" controls > </audio> | <audio src="g2p_bl.wav" preload="none" controls > </audio>
+TransPlayer| <audio src="p2g_tp.wav" preload="none" controls > </audio> | <audio src="g2p_tp.wav" preload="none" controls > </audio>
 
 ### Many-to-many Transfer
 We show some generated results here (source music randomly selected from validation set).
+
+Electric Piano to 
+
+
+
+
 Transferred by baseline:
-<audio src="p2g_bl.wav" preload="none" controls loop> </audio>
+<audio src="p2g_bl.wav" preload="none" controls > </audio>
 Transferred by TransPlayer:
-<audio src="p2g_tp.wav" preload="none" controls loop> </audio>
+<audio src="p2g_tp.wav" preload="none" controls > </audio>
