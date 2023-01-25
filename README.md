@@ -39,9 +39,9 @@ Trumpet -> Viola
 Trumpet -> Trumpet (recontruction)
 <audio src="trumpet_all_05_trumpet_trumpet.wav" preload="none" controls > </audio>
 Piano -> Organ
-<audio src="piano_all_05_piano_organ.wav" preload="none" controls > </audio>
+<audio src="piano_all_00_piano_organ.wav" preload="none" controls > </audio>
 Piano -> Electric Piano
-<audio src="piano_all_05_piano_epiano.wav" preload="none" controls > </audio>
+<audio src="piano_all_00_piano_epiano.wav" preload="none" controls > </audio>
 Piano -> Piano (reconstruction)
-<audio src="piano_all_05_piano_piano.wav" preload="none" controls > </audio>
+<audio src="piano_all_00_piano_piano.wav" preload="none" controls > </audio>
 
